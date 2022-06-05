@@ -1,5 +1,10 @@
 # Elsie_GitMerge
+<<<<<<< HEAD
 ttttyoo mati long vivian
+=======
+trial on own Hello 
+aDDED long vivian
+>>>>>>> Master
 i dont want this changecchange Sample Data - Office Supply Sales
 The first set of sample data on this page is sales data for an imaginary office supply company, and each row represents one sales order. There are formulas in one column - Total.
 
